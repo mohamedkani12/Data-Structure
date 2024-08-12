@@ -1,0 +1,6 @@
+Reverse a Number
+pallindrome check
+Armstrong number
+print all divisor for a given number
+is it prime number
+GCD | HCF

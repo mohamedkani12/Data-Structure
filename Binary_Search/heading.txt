@@ -1,0 +1,49 @@
+Iterative and Recursive approach
+Lower and Upper Bound
+Search insert Position
+Floor and ceil
+First and Last Occurences
+Count Occurences
+Search Element in Rotated Sorted Array-I
+Search Element in Rotated Sorted Array-II
+Minimum in Rotated Sorted Array
+Find out how may times array has been Rotated
+single element in Sorted Array
+Find Peak Element
+Finding sqrt of a number using binary search
+Find the Nth root of an integer
+Koko Eating Bananas
+Minimum days to make M bouquets
+Find the smallest divisor given a Threshold
+Capacity to Ship Packages Within D days
+Kth Missing positive number
+Aggressive Cows
+Allocate Books or Book Allocation
+painter partition and Split array
+Minimize and Maximize Distance between Gas Station
+Median of two sorted array
+k-th element of two sorted arrays
+Row with maximum number of 1's
+Search in a 2D matrix-I
+Search in a 2D matrix-II
+Find Peak Element - II
+Median in a Row wise Sorted Matrix
+
+
+
+-----------------------------------------------------------------------
+#include<iostream>                                                    
+#include<bits/stdc++.h>                                                     
+using namespace std;
+int main(){
+  int n;
+  cout<<"Enter the array size : ";
+  cin>>n;
+  vector<int> arr;
+  for(int i=0;i<n;i++){
+    int num;
+    cin>>num;
+    arr.push_back(num);
+  }
+  return 0;
+}
