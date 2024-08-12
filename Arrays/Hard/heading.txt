@@ -1,0 +1,11 @@
+Pascal's triangle
+Majority element > n/3 times
+three sum 
+4 sum
+Longest subarray with zero sum
+Number of subarray with xor k
+Merge overlapping intervals
+Merge sorted array without extra spaces 
+Find the repeating and missing numbers
+Count inversions in an array
+Reverse Pairs

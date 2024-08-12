@@ -1,0 +1,14 @@
+largest element in array 
+Second Largest & Smallest element in array
+check if the array is sorted
+remove the duplicate in sorted array
+Left rotate array by one place 
+Left rotate array by K palces
+move zeros by one end
+Linear search element found return index
+union of two sorted array
+intersection of two started array
+find the missing number in n nmbers
+maximum consecutive one's
+find the number appear once and other's twice
+Longest subarray with sum k

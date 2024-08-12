@@ -1,0 +1,13 @@
+2 sum problem
+sort of array 0's 1's and 2's
+Majority element > n/2 times
+Maximum subarray (kadane's algorithm)
+Buy and sell stock (  once )
+Rearrange the element  by sign
+Next Permutation
+Leaders in an array
+Longest Consecutive Sequence
+set matrix Zeroes
+Rotate matrix / image by 90 deg
+Spiral matrix
+count subarray with sum K
