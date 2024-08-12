@@ -1,0 +1,7 @@
+Selection sort
+Bubble sort
+Insertion sort
+Merge sort 
+Quick sort
+Recursive bubble sort
+Recursive insertion sort

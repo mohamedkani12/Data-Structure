@@ -1,0 +1,5 @@
+find the number of times number repeat using for loop
+using hashing find the number of times number repeat 
+find string occurences using for loop
+find string occurences using hashing
+find the number of times number repeat using maps

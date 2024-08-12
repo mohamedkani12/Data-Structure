@@ -1,0 +1,13 @@
+Print a name 5 times
+Print 1 to N numbers
+Print n to 1 numbers
+Print 1 to N numbers (using backtracking)
+Print N to 1 numbers (using backtracking)
+reverse an array
+revese an array by O(n/2)
+pallindrome check
+parameterized sum
+Sum using functional recurion 
+Fibonacci number
+reverse an array by for loop
+factorial using recursion
